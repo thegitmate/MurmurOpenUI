@@ -16,7 +16,7 @@ Speech-to-Text Python app for macOS — lightweight, open-source, and powered by
 ## 🔧 REQUIREMENTS BEFORE RUNNING THIS PROGRAM (on macOS)
 
 1. **Install Homebrew** (if not already):  
-   <a href="https://brew.sh" target="_blank">brew.sh</a>
+[brew.sh](https://brew.sh) (Right-click and "Open link in new tab")
 
 
 3. **Install ffmpeg** (required for audio/video processing):
