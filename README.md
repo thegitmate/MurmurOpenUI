@@ -34,10 +34,7 @@ A lightweight, open-source macOS Python app for speech-to-text transcription usi
     pip install openai-whisper torch
     ```
     
-    If that fails, use:
-  	```bash
-     pip3 install openai-whisper torch
-     ```
+    If that fails, you might need to use pip3.
 
 5. Pre-download the Whisper model you want to use:
    ```bash
@@ -73,6 +70,8 @@ Make sure ffmpeg is working:
 ```bash
 ffmpeg -version
 ```
+
+Look at the 'Requirements' section for more details.
 
 ---
 
