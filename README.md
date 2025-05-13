@@ -48,7 +48,7 @@ A lightweight, open-source macOS Python app for speech-to-text transcription usi
 In your terminal, navigate to the folder containing the script.
 Then run:
 ```bash
-python3 WhisperApp_beta2.py
+python3 MurmurOpenUI_public.py
 ```
 Alternatively, run it with F5 if you’re using Python’s built-in IDLE, or launch it however your Python interface allows.
 
