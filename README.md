@@ -3,10 +3,10 @@ Speech-to-Text Python app for macOS — lightweight, open-source, and powered by
 
 ## Features
 - Speech-to-Text: Transcribe audio files using OpenAI Whisper (locally)
-- Simple & easy to use graphical interface (built with tkinter)
+- Select any Whisper models: from tiny to large-v3-turbo
 - Supports multiple languages (auto-detect, English, French, Spanish, Korean, and more)
+- Simple & easy to use graphical interface (built with tkinter)
 - Outputs in txt, srt, vtt, and json formats
-- Selectable models: from tiny to large-v3-turbo
 - Default output folder is ~/Downloads
 - macOS-optimised with automatic ffmpeg path support
 - Easily customise the Python script to your preferences
