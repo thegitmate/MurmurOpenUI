@@ -16,19 +16,20 @@ Speech-to-Text Python app for macOS — lightweight, open-source, and powered by
 ## 🔧 REQUIREMENTS BEFORE RUNNING THIS PROGRAM (on macOS)
 
 1. **Install Homebrew** (if not already):  
-   https://brew.sh
+   <a href="https://brew.sh" target="_blank">brew.sh</a>
 
-2. **Install ffmpeg** (required for audio/video processing):
+
+3. **Install ffmpeg** (required for audio/video processing):
    ```bash
    brew install ffmpeg
    ```
 
-3. Install Python 3 (if not installed):
+4. Install Python 3 (if not installed):
    ```bash
    brew install python
    ```
 
-4.	Install required Python packages
+5.	Install required Python packages
   Try this first:
     ```bash
     pip install openai-whisper torch
@@ -36,7 +37,7 @@ Speech-to-Text Python app for macOS — lightweight, open-source, and powered by
     
     If that fails, you might need to use pip3.
 
-5. Pre-download the Whisper model you want to use:
+6. Pre-download the Whisper model you want to use:
    ```bash
    python3 -c "import whisper; whisper.load_model('large-v3-turbo')"
    ```
