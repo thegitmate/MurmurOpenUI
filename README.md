@@ -1,15 +1,15 @@
 # MurmurOpenUI
-A lightweight, open-source macOS Python script app to run OpenAI’s Whisper models with a simple graphical interface.
+A lightweight, open-source macOS Python app for speech-to-text transcription using OpenAI’s Whisper models with a simple graphical interface.
 
 ## Features
-- Transcribe audio files using OpenAI Whisper (locally)
+- Speech-to-Text: Transcribe audio files using OpenAI Whisper (locally)
 - Simple & easy to use graphical interface (built with tkinter)
-- Supports multiple languages (auto-detect, English, French, Spanish, Korean)
+- Supports multiple languages (auto-detect, English, French, Spanish, Korean, and more)
 - Outputs in txt, srt, vtt, and json formats
 - Selectable models: from tiny to large-v3-turbo
 - Default output folder is ~/Downloads
 - macOS-optimised with automatic ffmpeg path support
-- Customise the Python script to your liking
+- Easily customise the Python script to your preferences
 
 ---
 
@@ -38,6 +38,12 @@ A lightweight, open-source macOS Python script app to run OpenAI’s Whisper mod
   	```bash
      pip3 install openai-whisper torch
      ```
+
+5. Pre-download the Whisper model you want to use:
+   ```bash
+   python3 -c "import whisper; whisper.load_model('large-v3-turbo')"
+   ```
+   Replace 'large-v3-turbo' with 'base', 'tiny', 'small', 'medium', 'large', or else as needed.
 
 ---
 
