@@ -1,5 +1,5 @@
 # MurmurOpenUI
-Speech-to-Text Python app for macOS — lightweight, open-source, and powered by OpenAI’s Whisper with a simple graphical interface.
+A lightweight, open-source macOS python script to run OpenAI’s Whisper models with a simple graphical interface.
 
 ## Features
 - Speech-to-Text: Transcribe audio files using OpenAI Whisper (locally)
