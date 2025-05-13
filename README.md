@@ -82,4 +82,5 @@ This project is licensed under the MIT License — see the LICENSE file for full
 - Sharing to make local transcription easier for everyone
 
 🎓 Made for the AI in Society class.
+
 Built by N. in May 2025
