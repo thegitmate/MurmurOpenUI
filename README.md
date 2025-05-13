@@ -47,6 +47,7 @@ Then run:
 ```bash
 python3 WhisperApp_beta2.py
 ```
+Alternatively, run it with F5 if you’re using Python’s built-in IDLE, or launch it however your Python interface allows.
 
 ---
 ## 📦 Installation (Dev Setup)
