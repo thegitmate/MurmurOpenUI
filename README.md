@@ -90,3 +90,8 @@ This project is licensed under the MIT License — see the LICENSE file for full
 🎓 Made for the AI in Society class.
 
 Built by N. in May 2025
+
+---
+
+## 🔎 SEO Keywords
+macOS Whisper GUI, Python Whisper transcription, OpenAI Whisper macOS, Whisper speech-to-text app, Whisper Python GUI, macOS audio transcription tool, run Whisper locally macOS, open-source Whisper GUI, transcribe audio macOS, Whisper model selector, multilingual Whisper transcription, tkinter Whisper interface, ffmpeg Whisper setup, Whisper transcription script, local speech recognition macOS, Whisper v3 turbo macOS, Python speech-to-text app, convert audio to text macOS, subtitle generator macOS, SRT VTT transcription tool.
