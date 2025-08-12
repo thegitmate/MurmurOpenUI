@@ -24,20 +24,19 @@ A lightweight, open-source macOS python script to run OpenAI’s Whisper models 
    brew install ffmpeg
    ```
 
-4. Install Python 3 (if not installed):
+4. **Install Python 3** (if not installed):
    ```bash
    brew install python
    ```
 
-5.	Install required Python packages
-  Try this first:
+5.	**Install required Python packages**
     ```bash
     pip install openai-whisper torch
     ```
     
     If that fails, you might need to use pip3.
 
-6. Pre-download the Whisper model you want to use:
+6. **Pre-download the Whisper model you want to use:**
    ```bash
    python3 -c "import whisper; whisper.load_model('large-v3-turbo')"
    ```
@@ -47,6 +46,7 @@ A lightweight, open-source macOS python script to run OpenAI’s Whisper models 
 
 ## 🚀 How to Run
 In your terminal, navigate to the folder containing the script.
+
 Then run:
 ```bash
 python3 MurmurOpenUI_public.py
@@ -72,7 +72,7 @@ Make sure ffmpeg is working:
 ffmpeg -version
 ```
 
-Look at the 'Requirements' section for more details.
+**For more details: look at the 'Requirements' section.**
 
 ---
 
